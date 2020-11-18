@@ -1,6 +1,6 @@
 <script>
   import ChartSVG from "../ChartSVG/index.svelte";
-  import ChartXAxisLinear from "../ChartXAxisLinear/index.svelte";
+  import ChartXAxisLinear from "./index.svelte";
 
   export let chartInnerHeight;
   export let innerLeft;

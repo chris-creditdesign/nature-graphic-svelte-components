@@ -1,6 +1,6 @@
 {
   "name": "nature-graphic-svelte-components",
-  "version": "0.0.01",
+  "version": "0.0.02",
   "description": "Collection of svelte components to build nature infographics.",
   "svelte": "src/index.js",
   "main": "dist/index.js",

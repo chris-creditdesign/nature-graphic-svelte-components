@@ -1,6 +1,6 @@
 <script>
   import ChartSVG from "../ChartSVG/index.svelte";
-  import ChartLine from "../ChartLine/index.svelte";
+  import ChartLine from "./index.svelte";
 
   export let columnNames;
   export let data;

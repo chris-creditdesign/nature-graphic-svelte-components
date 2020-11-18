@@ -14,7 +14,7 @@
     return { x, y };
   });
 
-  let path = line()
+  $: path = line()
     .x((d) => xScale(d.x))
     .y((d) => yScale(d.y));
 </script>
